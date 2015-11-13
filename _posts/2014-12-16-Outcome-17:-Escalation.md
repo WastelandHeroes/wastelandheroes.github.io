@@ -46,9 +46,9 @@ The conversation starts out nice but quickly turns nasty as Djeke makes it known
 <figure>
 <img src="{{site.baseurl}}/images/outcome17/01_pre_charge.jpg" style="width:40%;" />
 <img src="{{site.baseurl}}/images/outcome17/02_post_fireball.jpg" style="width:40%;" />
-<caption>
+<figcaption>
 Before and after the fireball has been cast.
-</caption>
+</figcaption>
 </figure>
 
 Then, the assault, Arya successfully dispels the fog and the party charges in.  About 9 Koroktal knights and 4 bearded men with axes charge the house as Djeke plays encouraging music.
