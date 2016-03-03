@@ -24,6 +24,8 @@ gaaccount: ''
 disqus: 'none'
 comments: false
 
+gems: [jekyll-paginate]
+
 permalink: /:year/:month/:title
 paginate: 5
 
