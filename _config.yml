@@ -24,7 +24,8 @@ gaaccount: ''
 disqus: 'none'
 comments: false
 
-gems: [jekyll-paginate]
+gems: 
+  - jekyll-paginate
 
 permalink: /:year/:month/:title
 paginate: 5
@@ -36,6 +37,5 @@ kramdown:
     parse_block_html: true
     parse_span_html: true
     smart_quotes: lsquo,rsquo,ldquo,rdquo
-highlighter: pygments
 
 exclude: ['README.md', 'LICENSE']

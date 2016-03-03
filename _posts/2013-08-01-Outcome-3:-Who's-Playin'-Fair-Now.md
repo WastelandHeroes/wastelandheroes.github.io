@@ -2,6 +2,7 @@
 layout: post
 categories:
 - outcome
+title: "Outcome 3: Who's playin' fair now?"
 ---
 
 During daytime Arya, Boole and Djeke scouted for Djeke's date with Sneak. Arya gathered information for the most romantic place in the city to "seal the deal" (get to first base), while Boole prayed to Xatar and Djeke gathered information for the places to take a girl out to eat.

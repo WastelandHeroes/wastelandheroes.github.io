@@ -2,6 +2,7 @@
 layout: post
 categories:
 - outcome
+title: "Outcome 1: You all end up at an inn"
 ---
 
 Boole, Djeke and Arya walked to Korokno, walking the piece through the night. Killing a mud covered zombie near the city.

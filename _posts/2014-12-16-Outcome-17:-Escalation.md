@@ -2,6 +2,7 @@
 layout: post
 categories:
 - outcome
+title: "Outcome 17: Escalation"
 ---
 
 The situation is as followed: two squads of the Koroktal, reinforced with trainees, are camping in two houses at the edge of the square of SLMs house.  Serilious is in the larger, stone house, with squad A (Daddy Ray, good old Tor, Xoth and Rix). On the opposite side of the square is a smaller wooden house with squad BG (Versatalik (leader with a spear), Zint, Frox, Restek). Arya and Djeke are at "home" as sleep. Enkidu is at sleep in some house on temple island.

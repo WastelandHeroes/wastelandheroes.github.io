@@ -2,6 +2,7 @@
 layout: post
 categories:
 - outcome
+title: "Outcome 18: Nomads arrive, magic item madness"
 ---
 
 The party moves to Kor island to update Zethra for a sitrep. Restek and Frox meanwhile take care of the bodies of the perished Koroktal. They have some trouble getting to the island with the large body of the warforged. At the docks there are merchants enqueued (is that even english?) for the boat. Smoke just sails away and waves to the party. On the island they hear that the order is thinking about resurrecting Daddy Ray. They are asked to attend the start of a mourning period for the Koroktal.

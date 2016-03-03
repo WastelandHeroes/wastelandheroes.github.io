@@ -2,6 +2,7 @@
 layout: post
 categories:
 - outcome
+title: "Outcome 19: Crazy intermission at the carnaval"
 ---
 
 They are invited for dinner by Biswax. At dinner there are some merchants with

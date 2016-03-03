@@ -2,6 +2,7 @@
 layout: post
 categories:
 - outcome
+title: "Outcome 2a: Trustworthiness"
 ---
 
 The party awakens and orders breakfast at the inn (Boole actually ordering creme brulle, for that is normal in his home country) and the inn keeper gives Boole two items. The first is an official letter, the second a scrap of paper.

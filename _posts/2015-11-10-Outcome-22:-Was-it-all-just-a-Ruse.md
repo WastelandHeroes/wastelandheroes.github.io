@@ -2,6 +2,7 @@
 layout: post
 categories:
 - outcome
+title: "Outcome 22: Was it all just a ruse?"
 ---
 
 The party spends some time talking to the refugee elves from which they learn
